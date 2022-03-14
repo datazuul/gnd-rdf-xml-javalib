@@ -1,6 +1,6 @@
-# Alexandria Ingest GND: RDF Persons
+# GND RDF XML Java Library
 
-This library provides tools for handling GND (Gemeinsame Normdatei) data from the German National Library.
+This java library provides tools for handling GND (Gemeinsame Normdatei) data from the German National Library.
 Data is public available from [https://data.dnb.de/opendata/](https://data.dnb.de/opendata/).
 
 Data is available in several formats. As we deal with a format, this library will grow in specific parsers.
